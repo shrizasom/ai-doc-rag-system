@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../ai-service"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"powershell.cwd": "ai-service"
+	}
+}
