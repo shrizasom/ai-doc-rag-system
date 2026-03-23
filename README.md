@@ -3,6 +3,8 @@
 An end-to-end AI-powered application that allows users to upload documents and ask questions using Retrieval-Augmented Generation (RAG).
 
 Built using **React, Spring Boot, FastAPI, LangChain, and OpenAI**.
+<img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/6045eedc-2249-4655-9523-6e6f63a4efb2" />
+
 
 ---
 
